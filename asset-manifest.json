@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/InnaKovrizhenko/goit-react-hw-01-components/static/css/main.e6a03da5.css",
+    "main.js": "/InnaKovrizhenko/goit-react-hw-01-components/static/js/main.d07cb5c6.js",
+    "index.html": "/InnaKovrizhenko/goit-react-hw-01-components/index.html",
+    "main.e6a03da5.css.map": "/InnaKovrizhenko/goit-react-hw-01-components/static/css/main.e6a03da5.css.map",
+    "main.d07cb5c6.js.map": "/InnaKovrizhenko/goit-react-hw-01-components/static/js/main.d07cb5c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6a03da5.css",
+    "static/js/main.d07cb5c6.js"
+  ]
+}
